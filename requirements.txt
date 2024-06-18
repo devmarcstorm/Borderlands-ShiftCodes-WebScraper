@@ -6,4 +6,4 @@ lxml==4.9.1
 pyperclip==1.7.0
 requests==2.31.0
 soupsieve==1.9.2
-urllib3==1.26.18
+urllib3==1.26.19
